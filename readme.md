@@ -34,7 +34,8 @@ Any time:  models on Hugging Face, poking at world models.
 ### 🔭 Now
 
 - 🧠 Fine-tuning on [Hugging Face](https://huggingface.co/MrbandiTw) — latest: [Always Pikachu LoRA](https://huggingface.co/MrbandiTw/always-pikachu-lora-sd15)
-- 🛠️ **TenkStack** (2026.7 ~) and **Acivs**, a smart review system for anonymous posts
+- 🛠️ **TenkStack** (2026.7 ~) — local home AI server on dual Intel Arc Pro B70
+- 📝 **Acivs**, a smart review system for anonymous posts
 - ☁️ Cloud @ [Lazco](https://www.lazco.tw) · backend @ Yuanhe
 - 🐣 **PenguinEsports** community
 - 📖 Full timeline: [bandi.one](https://bandi.one)
