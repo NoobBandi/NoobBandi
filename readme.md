@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  後端 · LLM 微調 · 世界模型<br>
-  Cloud & backend @ Lazco · 源核資訊整合工作室
+  Backend · LLM fine-tuning · World models<br>
+  Cloud & backend @ Lazco · Yuanhe
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@ By day:    cloud & backend.
 Any time:  models on Hugging Face, poking at world models.
 ```
 
-### 🔭 最近在做
+### 🔭 Now
 
 - 🧠 Fine-tuning on [Hugging Face](https://huggingface.co/MrbandiTw) — latest: [Always Pikachu LoRA](https://huggingface.co/MrbandiTw/always-pikachu-lora-sd15)
-- 🛠️ **TenkStack** (2026.7 ~) and **Acivs** 匿名投稿智慧審核
-- ☁️ Cloud @ [Lazco](https://www.lazco.tw) · backend @ 源核資訊整合工作室
-- 🐣 企鵝窩競賽社群
-- 📖 完整經歷：[bandi.one](https://bandi.one)
+- 🛠️ **TenkStack** (2026.7 ~) and **Acivs**, a smart review system for anonymous posts
+- ☁️ Cloud @ [Lazco](https://www.lazco.tw) · backend @ Yuanhe
+- 🐣 Penguin Nest contest community
+- 📖 Full timeline: [bandi.one](https://bandi.one)
 
 ### 🛠 Tech Stack
 
