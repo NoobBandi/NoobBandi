@@ -31,23 +31,13 @@ By day:    cloud & backend.
 Any time:  models on Hugging Face, poking at world models.
 ```
 
-### 🚀 What I'm up to
+### 🔭 最近在做
 
 - 🧠 Fine-tuning on [Hugging Face](https://huggingface.co/MrbandiTw) — latest: [Always Pikachu LoRA](https://huggingface.co/MrbandiTw/always-pikachu-lora-sd15)
 - 🛠️ **TenkStack** (2026.7 ~) and **Acivs** 匿名投稿智慧審核
 - ☁️ Cloud @ [Lazco](https://www.lazco.tw) · backend @ 源核資訊整合工作室
 - 🐣 企鵝窩競賽社群
 - 📖 完整經歷：[bandi.one](https://bandi.one)
-
-### ✨ Public work
-
-<p>
-  <a href="https://github.com/NoobBandi/Pokemon-whoim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NoobBandi&repo=Pokemon-whoim&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=8B949E&icon_color=FF6B35" alt="Pokemon-whoim" /></a>
-  <a href="https://github.com/NoobBandi/GPS-View"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NoobBandi&repo=GPS-View&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=8B949E&icon_color=FF6B35" alt="GPS-View" /></a>
-</p>
-
-- [Pokemon-whoim](https://github.com/NoobBandi/Pokemon-whoim) — 推論管線；權重在 [Always Pikachu LoRA](https://huggingface.co/MrbandiTw/always-pikachu-lora-sd15)
-- [GPS-View](https://github.com/NoobBandi/GPS-View) — GPX 軌跡回放
 
 ### 🛠 Tech Stack
 
