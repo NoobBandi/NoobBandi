@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://bandi.one">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=FF6B35&center=true&vCenter=true&width=680&height=52&lines=Backend+developer;LLM+training+%2F+fine-tuning;World+models+in+progress;Just+an+ordinary+college+student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=FF6B35&center=true&vCenter=true&width=680&height=52&lines=Backend+developer;LLM+training+%2F+fine-tuning;World+models+in+progress;Home+AI+server+on+dual+B70;Just+an+ordinary+college+student" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   Backend · LLM fine-tuning · World models<br>
-  Cloud & backend @ Lazco · Yuanhe
+  Cloud & backend @ Lazco · Yuanhe · Home AI on dual B70
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@ and anonymous-post systems. Keyboard never really left.
 2024: started training and fine-tuning LLMs for real.
 By day:    cloud & backend.
 Any time:  models on Hugging Face, poking at world models.
+Home lab:  TenkStack on dual Intel Arc Pro B70.
 ```
 
 ### 🔭 Now
